@@ -1,6 +1,6 @@
 ### Aravindh Varadharaj
 
-I build Go backend projects in my spare time to learn: concurrency, payments, distributed systems, data pipelines and search. All of these are personal projects, not affiliated with my employer.
+I build Go backend projects in my spare time to learn: concurrency, payments, distributed systems, data pipelines and search. Each one has a Go backend and a React + TypeScript frontend, with a live demo in the browser. All of these are personal projects, not affiliated with my employer.
 
 **Live resume: [aravindh97.github.io/resume](https://aravindh97.github.io/resume/)**: ask questions about my code, kill the Raft leader, and flip `sync.Mutex` on a real data race, all in Go WebAssembly.
 
@@ -25,6 +25,6 @@ More Go systems, each with tests, CI, measured results and a demo that runs in y
 
 Earlier: six full-stack platforms in Python and Go in [aravindh-impact-portfolio](https://github.com/Aravindh97/aravindh-impact-portfolio).
 
-Stack: Go · Temporal · PostgreSQL · OpenSearch · pgvector · MCP · Python · TypeScript
+Stack: Go · PostgreSQL · Temporal · OpenSearch · pgvector · MCP · React · TypeScript · Python
 
 [LinkedIn](https://www.linkedin.com/in/aravindh-varadharaj-253231201) · aravindhvaradha@gmail.com
