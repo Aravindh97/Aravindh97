@@ -1,6 +1,6 @@
 ### Aravindh Varadharaj
 
-I build Go backend projects in my spare time to learn: concurrency, payments, distributed systems, data pipelines and search. Each one has a Go backend and a React + TypeScript frontend, with a live demo in the browser. All of these are personal projects, not affiliated with my employer.
+Full-stack engineer. I build projects in my spare time to learn: concurrency, payments, distributed systems, data pipelines and search. Each one has a Go service and a React + TypeScript frontend, with a live demo in the browser. All of these are personal projects, not affiliated with my employer.
 
 **Live resume: [aravindh97.github.io/resume](https://aravindh97.github.io/resume/)**: ask questions about my code, kill the Raft leader, and flip `sync.Mutex` on a real data race, all in Go WebAssembly.
 
